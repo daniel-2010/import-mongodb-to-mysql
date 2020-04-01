@@ -1,5 +1,6 @@
 # Import MongoDB to MySQL
-Exemplo de importação do MongoDB para MySQL
+Este código é um exemplo de como importar os registros contidos dentro de um Banco de Dados MongoDB para um Banco MySQL. 
+Para realizar esta importação destes registros foi utilizado a tecnologia <b>NodeJS</b> como intermediário entre os dois bancos.
 
 Execute os comandos a seguir:
 

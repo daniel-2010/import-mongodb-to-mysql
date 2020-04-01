@@ -75,11 +75,6 @@ app.listen(port,function (){
 })
 
 
-
-
-
-
-
 // async function find_estados(){
 //   const data = await estado_model.find({});
 //   var array = [];
